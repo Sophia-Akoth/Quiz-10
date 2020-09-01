@@ -1,0 +1,166 @@
+body{
+	background-color: #D5D8DC;
+    font-family: arial;
+    margin: 0 auto
+}
+h5{
+	background-color: #273746;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 0;
+	font-size: 1.5vw;
+
+}
+h1{
+	font-size: 2.7vw;
+}
+p{
+	color: yellow;
+}
+#intro{
+	font-size: 1.2vw;
+	letter-spacing: 5px;
+}
+.second{
+	background-color: #34495E;
+	color: #fff;
+	padding: 60px;
+	text-align: center;
+
+}
+.third{
+	width: 1000px;
+	min-height: 500px;
+	background-color: #fff;
+	margin: 30px auto 0 auto;
+	font-size: 1.2vw;
+
+}
+h2{
+	background-color: #F4D03F;
+	padding: 20px;
+	font-size: 2.0vw;
+    
+
+
+ }
+  img {
+  padding-left: 20px;
+  padding-top: 2px;
+  padding-bottom: 30px;
+  padding-right: 10px;
+  float: left;
+}
+.content p{
+	color: grey;
+}
+
+footer {
+  padding: 3px;
+  background-color: #273746;
+}
+.foot{
+	 margin-top: 40px;
+	 opacity: 0.9;
+	 font-size: 1.0vw;
+
+}
+.foot p{
+	padding-left: 168px;
+	color: #B2BABB;
+	}
+
+#one{
+	padding-left: 168px;
+	color: #fff;
+	font-weight: bold;
+	padding-top: 50px;
+}
+h3{
+	color:yellow;
+	padding-top: 10px;
+	padding-left: 168px;
+	font-size: 0.9vw;
+	
+
+}
+.foot p:first-letter{
+	color: white;
+
+}
+#schools {
+  width: 1000px;
+  height: 400px;
+  border-collapse: collapse;
+  margin: 30px auto 0 auto;
+  background-color: #fff;
+
+}
+
+#schools td, #schools th {
+  padding: 8px;
+  color: grey;
+}
+#schools td{
+	border: 1px solid #ddd;
+	text-align: center;
+	font-size: 1.1vw;
+
+
+
+}
+
+
+#schools th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color:#F4D03F; 
+  color: #34495E;
+  font-size: 1.2vw;
+
+}
+.child1{
+	background-color: #fff;
+	width: 480px;
+	height: 380px;
+	margin-left: 175px;
+}
+.child2{
+	background-color: #fff;
+	width: 480px;
+	height: 380px;
+	margin-left: 40px;
+
+	
+}
+*{
+	box-sizing: border-box;
+}
+.parent{
+	display: flex;
+	padding-top: 30px;
+
+}
+h4{
+	background-color: #F4D03F;
+	padding: 20px;
+	margin-top: 0px;
+	font-size: 2.0vw;
+
+}
+ .child2 ul li{
+ 	color: grey;
+ 	font-size: 1.2vw;
+
+ }
+ .child1 ul li{
+ 	color: grey;
+ 	font-size: 1.2vw;
+
+ }
+ @media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%;
+  }
