@@ -14,13 +14,15 @@ h5{
 }
 h1{
 	font-size: 2.7vw;
+	letter-spacing: 5px;
+
 }
 p{
 	color: yellow;
 }
 #intro{
 	font-size: 1.2vw;
-	letter-spacing: 5px;
+	letter-spacing: 10px;
 }
 .second{
 	background-color: #34495E;
@@ -41,6 +43,7 @@ h2{
 	background-color: #F4D03F;
 	padding: 20px;
 	font-size: 2.0vw;
+	color: #34495E;
     
 
 
@@ -48,8 +51,8 @@ h2{
   img {
   padding-left: 20px;
   padding-top: 2px;
-  padding-bottom: 30px;
-  padding-right: 10px;
+  padding-bottom: 20px;
+  padding-right: 30px;
   float: left;
 }
 .content p{
@@ -148,6 +151,7 @@ h4{
 	padding: 20px;
 	margin-top: 0px;
 	font-size: 2.0vw;
+	color: #34495E;
 
 }
  .child2 ul li{
